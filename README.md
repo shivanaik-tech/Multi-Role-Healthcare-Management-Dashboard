@@ -91,7 +91,7 @@ $ npm run dev
 
 - 🔗 Live App: [carehub360.vercel.app](https://carehub360.vercel.app)
 - 🎬 Demo Walkthrough: YouTube Demo
-- 📦 GitHub Repo: [github.com/Zainskhan1429/CareHub](https://github.com/Zainskhan1429/CareHub)
+- 📦 GitHub Repo: [github.com/shivanaik-tech/CareHub](https://github.com/shivanaik-tech/CareHub)
 
 ## 👥 Team: Code Breakers
 
